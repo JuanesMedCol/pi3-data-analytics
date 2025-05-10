@@ -35,3 +35,6 @@ El objetivo de este proyecto es identificar los factores clave que influyen en e
 2. Promedio de gastos por cliente en cada una de las categorías.
 3. Medir la cantidad de clientes antes y después de cada campaña de promoción para analizar su impacto.
 4. Promedio de días desde la última compra para los clientes que aceptaron ofertas comparado con los que no las aceptaron.
+----
+Este es un proyecto con fines académicos hacho para
+Proyecto Integrador III - Análisis de Datos 
